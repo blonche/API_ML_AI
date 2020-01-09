@@ -1,4 +1,6 @@
 # 粤难粤说APP
+[40x40秒的带narration 语音口白的Powerpoint](https://gitee.com/NFUNM101/final_project/blob/master/%E7%B2%A4%E9%9A%BE%E7%B2%A4%E8%AF%B4APP.pptx)  
+
 发布日期|2019-12-23
 --|:--:|
 项目名称|粤难粤说
